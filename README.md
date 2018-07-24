@@ -1,2 +1,2 @@
-# captcha-identification
-Captcha -Identification using Keras and OpenCV
+# Captcha - Identification
+Captcha - Identification using Keras and OpenCV
